@@ -1,0 +1,27 @@
+{
+	"name": "claude-desktop",
+	"version": "1.0.0",
+	"description": "Electron wrapper for Claude AI",
+	"main": "index.js",
+	"scripts": {
+		"start": "electron .",
+		"build": "electron-builder"
+	},
+	"author": "anongecko",
+	"license": "MIT",
+	"devDependencies": {
+		"electron": "^28.0.0",
+		"electron-builder": "^24.6.4"
+	},
+	"dependencies": {
+		"electron-store": "^8.1.0"
+	},
+	"build": {
+		"appId": "com.yourcompany.claude-desktop",
+		"mac": {
+			"category": "public.app-category.productivity",
+			"target": ["dmg", "zip"],
+			"icon": "icon.icns"
+		}
+	}
+}
