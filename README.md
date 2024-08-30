@@ -1,4 +1,4 @@
-# 🤖 Claude Desktop: Your AI Assistant, Now on Your Dock!
+# 🤖 Claude Desktop: Your AI Assistant, Now on Your Dock! (Optimized for M1 Mac)
 
 Welcome to Claude Desktop, where the power of Claude AI meets the convenience of your desktop! This Electron-based wrapper brings the brilliance of https://claude.ai right to your fingertips, no browser required. It's like having a super-smart friend living in your computer! 🖥️✨
 
